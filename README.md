@@ -1,9 +1,6 @@
-# CSE324: Lab Project (SWE)
+# COMPUTER MINI PROJECT
 ## Group members:
 
-[Gourab Saha](https://github.com/gourab98)  (Reg: 2017831004)
-
-[Mehedi Hasan](https://github.com/Mahdi-Hasan) (Reg: 2017831040)
 
 ##  File-Server-System: 
 
